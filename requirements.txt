@@ -1,0 +1,3 @@
+markitdown[all]
+langchain_google_genai
+streamlit
